@@ -1,0 +1,77 @@
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\MemoryHistory.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\MemoryHistory.baml
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Gebruiker\Desktop\Wetenschappelijke Rekenmachine\Wetenschappelijke-Machine-Update-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\Desktop\WetenschappelijkeRekenmachineUpdate2-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Gebruiker\Desktop\Update3Rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Frank\Desktop\update4rekenmachine-master\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
